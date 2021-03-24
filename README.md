@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 My Portfolio
 
@@ -6,7 +6,7 @@ My Portfolio
 
 O controle das tarefas desse projeto será realizado no GitHub
 
-## Icones
+## Ícones
 
 :package: nova funcionalidade
 :up: atualização
