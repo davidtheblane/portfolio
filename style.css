@@ -213,6 +213,14 @@ header {
   background-color: #000;
 }
 
+
+.conhecimentos {
+  display: grid;
+  grid-template-columns: repeat(16, 1fr);
+}
+
+/* continua em 10h27 */
+
 /* ANIMATIONS */
 
 @keyframes zoomImage {
