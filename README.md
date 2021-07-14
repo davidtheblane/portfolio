@@ -7,7 +7,7 @@ https://davidtheblane.github.io/portfolio/
 
 ## Tarefas
 
-O controle das tarefas desse projeto será realizado no GitHub
+O controle das tarefas desse projeto serão realizados no GitHub
 
 ## Ícones
 
